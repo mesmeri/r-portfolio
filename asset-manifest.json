@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e4dec751.chunk.css",
+    "main.js": "/static/js/main.958ac183.chunk.js",
+    "main.js.map": "/static/js/main.958ac183.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e312f208.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e312f208.js.map",
+    "static/js/2.af7aee53.chunk.js": "/static/js/2.af7aee53.chunk.js",
+    "static/js/2.af7aee53.chunk.js.map": "/static/js/2.af7aee53.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2172615b4a2513ec01de42904177d8a4.js": "/precache-manifest.2172615b4a2513ec01de42904177d8a4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e4dec751.chunk.css.map": "/static/css/main.e4dec751.chunk.css.map",
+    "static/js/2.af7aee53.chunk.js.LICENSE.txt": "/static/js/2.af7aee53.chunk.js.LICENSE.txt",
+    "static/media/Oksana_Shuptar_resume_en.pdf": "/static/media/Oksana_Shuptar_resume_en.eb97627f.pdf",
+    "static/media/check.jpg": "/static/media/check.de264379.jpg",
+    "static/media/flowery.jpg": "/static/media/flowery.bb3b8306.jpg",
+    "static/media/interior.jpg": "/static/media/interior.e71d981f.jpg",
+    "static/media/moon.svg": "/static/media/moon.c4d51b03.svg",
+    "static/media/next.jpg": "/static/media/next.e782c260.jpg",
+    "static/media/repair.jpg": "/static/media/repair.01d6f85a.jpg",
+    "static/media/sunny.svg": "/static/media/sunny.9d41877c.svg",
+    "static/media/yes.jpg": "/static/media/yes.7c7527fd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e312f208.js",
+    "static/js/2.af7aee53.chunk.js",
+    "static/css/main.e4dec751.chunk.css",
+    "static/js/main.958ac183.chunk.js"
+  ]
+}
