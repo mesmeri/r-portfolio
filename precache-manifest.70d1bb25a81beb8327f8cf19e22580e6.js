@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b904e34be13c8488d8e45eb979e6ff93",
+    "revision": "1b59facb6b220e75592d1b8ee6d212a9",
     "url": "/index.html"
   },
   {
-    "revision": "6ee6738f240218db51cc",
-    "url": "/static/css/main.547a81cc.chunk.css"
+    "revision": "e7c7d48e81a6f7ad4133",
+    "url": "/static/css/main.a57e106f.chunk.css"
   },
   {
     "revision": "5dfe500507866680d70e",
@@ -16,20 +16,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.f9949217.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6ee6738f240218db51cc",
-    "url": "/static/js/main.d4c5e4ad.chunk.js"
+    "revision": "e7c7d48e81a6f7ad4133",
+    "url": "/static/js/main.66e9132d.chunk.js"
   },
   {
     "revision": "dd8147bbe7734801bdde",
     "url": "/static/js/runtime-main.e312f208.js"
   },
   {
-    "revision": "eb97627f9b987c65203172b5adbfdfd3",
-    "url": "/static/media/Oksana_Shuptar_resume_en.eb97627f.pdf"
+    "revision": "507642a888a77de437d76820f2bfc68a",
+    "url": "/static/media/Oksana_Shuptar_resume_en.507642a8.pdf"
   },
   {
     "revision": "de264379885858197b20de3a25c8e2f0",
     "url": "/static/media/check.de264379.jpg"
+  },
+  {
+    "revision": "efe7e7e7e103e351eb38f51f2c87c79a",
+    "url": "/static/media/datagrid.efe7e7e7.jpg"
   },
   {
     "revision": "bb3b8306539253766d15d75f57d9066e",
